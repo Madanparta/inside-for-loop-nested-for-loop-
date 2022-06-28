@@ -3,11 +3,3 @@
 `1.`Print the pattern given below, using loops.
 
 ---
-
----
-
----
-
----
-
----
